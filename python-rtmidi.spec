@@ -10,7 +10,7 @@
 Summary:	A Python wrapper for the RtMidi C++ library
 Name:		python-%{module}
 Version:	1.1.0
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/%{pypi_name}/%{pypi_name}-%{version}.zip
